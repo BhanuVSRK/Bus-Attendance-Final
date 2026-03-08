@@ -1,5 +1,0 @@
-{
-  "name": "Smart College Bus Attendance System",
-  "description": "A comprehensive QR-based attendance management system for college buses, supporting 31 buses and 1550 students with real-time capacity monitoring and mid-route drop tracking.",
-  "requestFramePermissions": ["camera"]
-}
