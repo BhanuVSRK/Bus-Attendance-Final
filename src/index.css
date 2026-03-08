@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#reader {
+  color: white;
+}
+#reader button {
+  color: white;
+}
